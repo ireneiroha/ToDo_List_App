@@ -86,7 +86,7 @@ Want to expand this project? Here are ideas:
 🌐 Deploy as a simple web app with Java backend.
 
 🧑‍💻 Author
-Your Name: EZINNE IROHA KALU
+   Name: EZINNE IROHA KALU
 
 GitHub: https://github.com/ireneiroha/ToDo_List_App
 
